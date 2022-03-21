@@ -1,3 +1,4 @@
+// ДЗ2 Node
 require('moment-precise-range-plugin');
 const moment = require('moment');
 const EventEmitter = require('events');
